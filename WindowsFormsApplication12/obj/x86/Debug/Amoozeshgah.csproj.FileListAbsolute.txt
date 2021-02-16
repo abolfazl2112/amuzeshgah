@@ -1,0 +1,36 @@
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\amoozeshgah.exe.config
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.gozareshList.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.grooh.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.Main.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.NewPerson.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.reshte.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.persons.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.Properties.Resources.resources
+E:\project\C#########\New Folder\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.tmp.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\amoozeshgah.exe.config
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\amoozeshgah.exe
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\amoozeshgah.pdb
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.gozareshList.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.grooh.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.Main.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.NewPerson.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.reshte.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.persons.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.exe
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.pdb
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.about.resources
+E:\project\C#########\در دست طراحی\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.load.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\آموزشگاه روشن\WindowsFormsApplication12\bin\Debug\amoozeshgah.exe.config
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\آموزشگاه روشن\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\آموزشگاه روشن\WindowsFormsApplication12\obj\x86\Debug\amoozeshgah.pdb

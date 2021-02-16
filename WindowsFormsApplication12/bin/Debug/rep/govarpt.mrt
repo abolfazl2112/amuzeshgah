@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StiSerializer version="1.02" type="Net" application="StiReport">
+  <Dictionary Ref="1" type="Dictionary" isKey="true">
+    <BusinessObjects isList="true" count="0" />
+    <Databases isList="true" count="0" />
+    <DataSources isList="true" count="1">
+      <variable Ref="2" type="DataTableSource" isKey="true">
+        <Alias>variable</Alias>
+        <Columns isList="true" count="16">
+          <value>name,System.String</value>
+          <value>father,System.String</value>
+          <value>tavalod,System.String</value>
+          <value>meli,System.String</value>
+          <value>shsh,System.String</value>
+          <value>sadere,System.String</value>
+          <value>onvan,System.String</value>
+          <value>codeStandard,System.String</value>
+          <value>mahal,System.String</value>
+          <value>shahr,System.String</value>
+          <value>nomreN,System.String</value>
+          <value>nomreA,System.String</value>
+          <value>modat,System.String</value>
+          <value>azmon,System.String</value>
+          <value>sodoor,System.String</value>
+          <value>govahi,System.String</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Name>variable</Name>
+        <NameInSource>variable</NameInSource>
+      </variable>
+    </DataSources>
+    <Relations isList="true" count="0" />
+    <Report isRef="0" />
+    <Variables isList="true" count="0" />
+  </Dictionary>
+  <EngineVersion>EngineV2</EngineVersion>
+  <GlobalizationStrings isList="true" count="0" />
+  <MetaTags isList="true" count="0" />
+  <Pages isList="true" count="1">
+    <Page1 Ref="3" type="Page" isKey="true">
+      <Border>None;Black;2;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <Components isList="true" count="19">
+        <Text21 Ref="4" type="Text" isKey="true">
+          <Border>None;DimGray;1;Solid;False;4;DimGray</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>11.6,8.1,5.4,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text21</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.tavalod}</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>DataColumn</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text21>
+        <Text22 Ref="5" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>11.6,6.5,5.4,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text22</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.name}</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>DataColumn</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text22>
+        <Text23 Ref="6" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>13.6,7.3,3.4,0.5</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text23</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.father}</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>DataColumn</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text23>
+        <Text24 Ref="7" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>13.6,8.9,3.4,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text24</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.meli}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text24>
+        <Text25 Ref="8" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>12.7,9.7,3.5,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text25</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.shsh}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text25>
+        <Text26 Ref="9" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>12.7,10.5,4.2,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text26</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.sadere}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text26>
+        <Text27 Ref="10" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>8.9,11.5,5.4,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text27</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.onvan}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text27>
+        <Text29 Ref="11" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>9.7,12.3,5.3,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text29</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.codeStandard}</Text>
+          <TextBrush>Black</TextBrush>
+        </Text29>
+        <Text28 Ref="12" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>10.4,13.4,6.6,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text28</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.mahal}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text28>
+        <Text30 Ref="13" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>12.9,14.3,4.2,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12,Bold</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text30</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>گناباد</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>Expression</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text30>
+        <Text31 Ref="14" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.6,9,4.3,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text31</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.nomreN}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text31>
+        <Text32 Ref="15" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.6,9.8,4.3,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text32</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.nomreA}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text32>
+        <Text33 Ref="16" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.4,11,4.5,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text33</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.modat}</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>DataColumn</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text33>
+        <Text34 Ref="17" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.8,12.2,4.2,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text34</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.azmon}</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>DataColumn</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text34>
+        <Text35 Ref="18" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.8,13,4.2,0.6</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text35</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.sodoor}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text35>
+        <Text36 Ref="19" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>1.8,13.9,3.5,0.5</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12</Font>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text36</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>{variable.govahi}</Text>
+          <TextBrush>Black</TextBrush>
+          <VertAlignment>Center</VertAlignment>
+        </Text36>
+        <Text1 Ref="20" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>12.9,15,4.2,0.8</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Zar,12,Bold</Font>
+          <Guid>6661bea335894e1383613cfa675f1649</Guid>
+          <HorAlignment>Right</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text1</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text> خراسان رضوی</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>Expression</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text1>
+        <Text2 Ref="21" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>18.5,17.1,5.2,1.1</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Titr,12,Bold</Font>
+          <Guid>c8b31014c1634ddd846375d9af45a449</Guid>
+          <HorAlignment>Center</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text2</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text>محمد رضا محمدی</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>Expression</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text2>
+        <Text3 Ref="22" type="Text" isKey="true">
+          <Border>None;[105:105:105];1;Solid;False;4;[105:105:105]</Border>
+          <Brush>EmptyBrush</Brush>
+          <ClientRectangle>2.4,17.2,5.2,1.1</ClientRectangle>
+          <Conditions isList="true" count="0" />
+          <Font>B Titr,12,Bold</Font>
+          <Guid>d9425fc9941a4db386da17dac20e1799</Guid>
+          <HorAlignment>Center</HorAlignment>
+          <Margins>0,0,0,0</Margins>
+          <Name>Text3</Name>
+          <Page isRef="3" />
+          <Parent isRef="3" />
+          <Text> سید سعید سرابی</Text>
+          <TextBrush>Black</TextBrush>
+          <Type>Expression</Type>
+          <VertAlignment>Center</VertAlignment>
+        </Text3>
+      </Components>
+      <Conditions isList="true" count="0" />
+      <Guid>4dc27ea342dc468fb05b4d3b3f81f801</Guid>
+      <Margins>0.5,0.5,0.5,0.5</Margins>
+      <Name>Page1</Name>
+      <Orientation>Landscape</Orientation>
+      <PageHeight>21</PageHeight>
+      <PageWidth>29.7</PageWidth>
+      <PaperSize>A4</PaperSize>
+      <Report isRef="0" />
+      <Watermark Ref="23" type="Stimulsoft.Report.Components.StiWatermark" isKey="true">
+        <Angle>0</Angle>
+        <Font>Arial,100</Font>
+        <ImageStretch>True</ImageStretch>
+        <TextBrush>[92:131:180]</TextBrush>
+      </Watermark>
+    </Page1>
+  </Pages>
+  <PrinterSettings Ref="24" type="Stimulsoft.Report.Print.StiPrinterSettings" isKey="true" />
+  <ReferencedAssemblies isList="true" count="8">
+    <value>System.Dll</value>
+    <value>System.Drawing.Dll</value>
+    <value>System.Windows.Forms.Dll</value>
+    <value>System.Data.Dll</value>
+    <value>System.Xml.Dll</value>
+    <value>Stimulsoft.Controls.Dll</value>
+    <value>Stimulsoft.Base.Dll</value>
+    <value>Stimulsoft.Report.Dll</value>
+  </ReferencedAssemblies>
+  <ReportAlias>Report</ReportAlias>
+  <ReportChanged>6/10/2015 8:31:59 AM</ReportChanged>
+  <ReportCreated>9/14/2013 3:29:58 PM</ReportCreated>
+  <ReportFile>E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\آموزشگاه روشن\WindowsFormsApplication12\bin\Debug\rep\govarpt.mrt</ReportFile>
+  <ReportGuid>c268faaa2b11481185ef06e6b94fea48</ReportGuid>
+  <ReportName>Report</ReportName>
+  <ReportUnit>Centimeters</ReportUnit>
+  <ReportVersion>2012.2.1304</ReportVersion>
+  <Script>using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Data;
+using Stimulsoft.Controls;
+using Stimulsoft.Base.Drawing;
+using Stimulsoft.Report;
+using Stimulsoft.Report.Dialogs;
+using Stimulsoft.Report.Components;
+
+namespace Reports
+{
+    public class Report : Stimulsoft.Report.StiReport
+    {
+        public Report()        {
+            this.InitializeComponent();
+        }
+
+        #region StiReport Designer generated code - do not modify
+		#endregion StiReport Designer generated code - do not modify
+    }
+}
+</Script>
+  <ScriptLanguage>CSharp</ScriptLanguage>
+  <Styles isList="true" count="0" />
+</StiSerializer>
